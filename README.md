@@ -1,6 +1,6 @@
 # XDデザインコーディング１
 
-## browser　: chrome https://sakagami-keisuke.github.io/portfolio-1_XDcoding/
+## Ctrl+Click  https://sakagami-keisuke.github.io/portfolio-1_XDcoding/
 
 ![image](https://user-images.githubusercontent.com/60636597/122666912-036e1d80-d1eb-11eb-8d83-de846ee17cc4.png)
 
